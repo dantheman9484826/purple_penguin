@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <!-- 
 Style Name: Purple Penguin
-Description: Port of the theme VibrantInk 
-(http://alternateidea.com/blog/articles/2006/01/03/textmate-vibrant-ink-theme-and-prototype-bundle) by Justin Palmer
+Description: Port of the theme VibrantInk (http://alternateidea.com/blog/articles/2006/01/03/textmate-vibrant-ink-theme-and-prototype-bundle) by Justin Palmer
 File name: 			stylers.xml
 Created by:			Daniel Berzanti (deebee2012 at rocketmail.com)
 Edits for languages:	Php, Css, Javascript, Html, & XML. 
@@ -154,7 +153,7 @@ http://sourceforge.net/donate/index.php?group_id=95717
         </LexerType>
         <LexerType name="html" desc="HTML" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="87CEFA" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="9" fgColor="6a6a6a" bgColor="2C323E" fontName="" fontStyle="" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="9" fgColor="6a6a6a" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="5" fgColor="99CC99" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="7CC6A2" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SINGLESTRING" styleID="7" fgColor="7CC6A2" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
@@ -177,8 +176,8 @@ http://sourceforge.net/donate/index.php?group_id=95717
             <WordsStyle name="WORD" styleID="121" fgColor="FF00EC" bgColor="2C323E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="122" fgColor="CCFF00" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="123" fgColor="00d8ff" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="124" fgColor="6a6a6a" bgColor="2C323E" fontName="" fontStyle="" fontSize="" />
-            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="6a6a6a" bgColor="2C323E" fontName="" fontStyle="0" fontSize="8" />
+            <WordsStyle name="COMMENT" styleID="124" fgColor="6a6a6a" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="6a6a6a" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="127" fgColor="B374EB" bgColor="2C323E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="javascript" desc="Javascript" ext="">
