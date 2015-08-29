@@ -2,12 +2,10 @@
 <!-- 
 Style Name: Purple Penguin
 Description: Port of the theme VibrantInk (http://alternateidea.com/blog/articles/2006/01/03/textmate-vibrant-ink-theme-and-prototype-bundle) by Justin Palmer
-File name: 			stylers.xml
-Created by:			Daniel Berzanti (deebee2012 at rocketmail.com)
-Edits for languages:	Php, Css, Javascript, Html, & XML. 
-Install: copy your installed Notepad++ directory root, overwrite old stylers.xml (backup old file first), 
-or copy %APPDATA%\Notepad++\
-overwrite old stylers.xml (backup old file first)
+File name: stylers.xml
+Created by: Daniel Berzanti (deebee2012 at rocketmail.com)
+Edits for languages: PHP, CSS, Javascript, Html, & XML.
+Install: copy to your installed Notepad++ directory root, e.g. C:\Program Files\Notepad++\themes
 
 Keep Notepad++ development active, donate!:
 http://sourceforge.net/donate/index.php?group_id=95717
@@ -706,7 +704,7 @@ http://sourceforge.net/donate/index.php?group_id=95717
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="ff0080" bgColor="111111" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="111111" fgColor="" fontSize="" fontStyle="0" />
         <WidgetStyle name="Mark colour" styleID="0" fgColor="2BFF00" bgColor="253b76" />
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="173048" fgColor="6699CC" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="394f86" fgColor="c2d7eb" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="FFFFFF" bgColor="2C323E" fontSize="" fontStyle="0" />
         <WidgetStyle name="Find Mark Style" styleID="31" fgColor="FFFF00" bgColor="FF0000" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="80FFFF" bgColor="2C323E" fontSize="8" fontStyle="0" />
